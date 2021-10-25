@@ -23,8 +23,8 @@ Code for gathering cross-section time-series dataset from different Excel-files.
 ## Data Files (relative path "~/data") 
 
 Replication data the research article:
--bti: Bertelsmann Transformation Index, dta-file
--sgi: Sustainable Governance Indicators; seperate xls-files
--vdem: Varieties of Democracy Version 11, Coppegde et al. 2021, RDS-file
--wgi: Worldwide Governance Indicators, dta-file
+- bti: Bertelsmann Transformation Index, dta-file
+- sgi: Sustainable Governance Indicators; seperate xls-files
+- vdem: Varieties of Democracy Version 11, Coppegde et al. 2021, RDS-file
+- wgi: Worldwide Governance Indicators, dta-file
 
