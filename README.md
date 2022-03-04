@@ -1,6 +1,6 @@
 # Measuring Policy Performance, Democracy and Governance Capacieties.
 
-Title: Replication File for “Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI)” 
+Title: Replication File for “Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI)”. European Policy Analysis. Accepted for publication. 
 
 Author: Croissant, Aurel and Pelke, Lars
 
