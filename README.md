@@ -16,13 +16,9 @@ To replicate all analyses and figures, download all data files to a folder entit
 
 ## R-Scripts 
 
-- 01_main_analysis_paper.R
+- 01_main_analysis_paper.R: Replicates the data wrangling process and the research article. In addition, it compiles data need fored subsequent analysis.
 
--- Replicates the data wrangling process and the research article. In addition, it compiles data need fored subsequent analysis.
-
-- 99_sgi_time_series_handling.R
-
--- Code for gathering cross-section time-series dataset from different Excel-files. ,
+- 99_sgi_time_series_handling.R: Code for gathering cross-section time-series dataset from different Excel-files. ,
 
 
 ## Data Files (relative path "~/data") 
