@@ -1,14 +1,17 @@
 # Measuring Policy Performance, Democracy and Governance Capacieties.
 
-Title: Replication File for “Measuring Policy Performance, Democracy and Governance Capacieties.”
+Title: Replication File for “Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI)” 
+
 Author: Croissant, Aurel and Pelke, Lars
+
 Correspondence: Lars Pelke
-Date: October 2021
+
+Date: March 2022
 
 Required Software: R and RStudio (4.0 or Above). 
 Additional required software packages and libraries are specified in the replication code.
 
-Overview: These files replicate all analyses in Croissant and Pelke (2020): “Measuring Policy Performance, Democracy and Governance Capacieties”
+Overview: These files replicate all analyses in Croissant and Pelke (2022): “Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI)”
 To replicate all analyses and figures, download all data files to a folder entitled “/data”, create a second folder entitled “/outputs” in the same directory, and run all code files in numerical order.
 
 ## R-Scripts 
