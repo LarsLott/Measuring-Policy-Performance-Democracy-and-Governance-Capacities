@@ -1,7 +1,8 @@
-#### "EPA Article" ####
-# authors: "Lars Pelke, Aurel Croissant"
-# date: 2021-10-19
-# written under "R version 3.6.1 (2021-08-10)"
+#### "Measuring Policy Performance, Democracy, and Governance Capacities: 
+####  A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI)" ####
+# authors: "Aurel Croissant and Lars Pelke"
+# date: 2022-03-04
+# written under "R version 4.1.2 (2021-11-01)"
 
 
 #### Preliminaries ####
@@ -15,6 +16,7 @@ Sys.info()
 #sysname        release        version           machine      
 #"Windows"      #"10 x64"  "build 19042"         "x86-64"  
 
+
 # clear workspace
 rm(list=ls())
 
@@ -27,7 +29,7 @@ library(DiagrammeR)
 library(sjPlot)
 library(stargazer)
 library(readstata13)
-library("readxl")
+library(readxl)
 library(MCMCpack)
 library(ggrepel)
 library(htmlwidgets)
@@ -37,7 +39,6 @@ library(webshot)
 # set working directory
 # please use the working directory, where you stored the zip-file. 
 
-setwd("M:/projects/EPA_SGI_Review (with Aurel)")
 
 #### Load SGI Excel Data ####
 
